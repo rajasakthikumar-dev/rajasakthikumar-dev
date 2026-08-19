@@ -100,7 +100,7 @@ Secure MERN stack platform for real-time lost-item reporting and recovery tracki
 
 <td width="50%" valign="top">
 
-### 🎙️ AI Video Conferencing — Live Transcription
+### 🎙️ AI Video Conferencing — Live Transcription 
 
 GenAI-powered conferencing app with real-time multilingual speech transcription for seamless cross-language calls.
 
@@ -127,9 +127,9 @@ Real-time peer-to-peer video calling platform with secure room creation and low-
 <td width="50%" valign="top">
 
 </td>
-</tr>
 
-<tr>
+
+
 <td width="50%" valign="top">
 
 ### 📹 Video-Translate
@@ -141,6 +141,7 @@ Real-time peer-to-peer video calling platform with secure room creation and low-
 [🔗 View Repository](https://github.com/rajasakthikumar-dev/VIDEO-TRANSLATE.git)
 
 </td>
+</tr>
 
 <td width="50%" valign="top">
 ### 📹 Language-Transcription-using-GenAI
