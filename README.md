@@ -8,9 +8,9 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajasakthikumar-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajasakthi-kumar-612919338)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajasakthikumarkumar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rajasakthikumar-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rajasakthi-kumar-612919338)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rajasakthikumarkumar@gmail.com)
 
 </div>
 
@@ -18,44 +18,30 @@
 
 ## 👋 About Me
 
-- 🚀 MERN Stack Developer
-- ☁️ AWS Cloud Learner
-- ⚙️ DevOps Enthusiast
-- 🔐 Cyber Security Student
-- 💡 Passionate about Full Stack Development
-- 📚 Currently learning Kubernetes & Cloud Security
+* 🚀 MERN Stack Developer
+* ☁️ AWS Cloud Learner
+* ⚙️ DevOps Enthusiast
+* 🔐 Cyber Security Student
+* 💡 Passionate about Full Stack Development
+* 📚 Currently learning Kubernetes & Cloud Security
 
 <br/>
 
 ## 🧰 Tech Stack
 
-**Programming Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,js" />
+**Programming Languages** <br/> <img src="https://skillicons.dev/icons?i=java,python,js" />
 
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
+**Frontend** <br/> <img src="https://skillicons.dev/icons?i=react,html,css" />
 
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+**Backend** <br/> <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb" />
+**Database** <br/> <img src="https://skillicons.dev/icons?i=mongodb" />
 
-**Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws" />
+**Cloud** <br/> <img src="https://skillicons.dev/icons?i=aws" />
 
-**DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git" />
+**DevOps** <br/> <img src="https://skillicons.dev/icons?i=docker,githubactions,git" />
 
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,vscode,postman" />
+**Tools** <br/> <img src="https://skillicons.dev/icons?i=linux,vscode,postman" />
 
 <br/>
 
@@ -100,7 +86,7 @@ Secure MERN stack platform for real-time lost-item reporting and recovery tracki
 
 <td width="50%" valign="top">
 
-### 🎙️ AI Video Conferencing — Live Transcription 
+### 🎙️ AI Video Conferencing — Live Transcription
 
 GenAI-powered conferencing app with real-time multilingual speech transcription for seamless cross-language calls.
 
@@ -126,31 +112,32 @@ Real-time peer-to-peer video calling platform with secure room creation and low-
 
 <td width="50%" valign="top">
 
-</td>
-
-
-
-<td width="50%" valign="top">
-
 ### 📹 Video-Translate
 
 Real-time peer-to-peer video calling platform with secure room creation and low-latency signalling.
 
-**Tech:** React.js · Node.js · WebRTC · Socket.io 
+**Tech:** React.js · Node.js · WebRTC · Socket.io
 
 [🔗 View Repository](https://github.com/rajasakthikumar-dev/VIDEO-TRANSLATE.git)
 
 </td>
 </tr>
 
+<tr>
 <td width="50%" valign="top">
+
 ### 📹 Language-Transcription-using-GenAI
 
 Real-time peer-to-peer video calling platform with secure room creation and low-latency signalling.
 
-**Tech:** React.js · Node.js · WebRTC · Socket.io · AWS 
+**Tech:** React.js · Node.js · WebRTC · Socket.io · AWS
 
 [🔗 View Repository](https://github.com/rajasakthikumar-dev/Language-Transcription-using-GenAI.git)
+
+</td>
+
+<td width="50%" valign="top">
+
 </td>
 </tr>
 </table>
@@ -161,10 +148,10 @@ Real-time peer-to-peer video calling platform with secure room creation and low-
 
 <div align="center">
 
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS DevOps](https://img.shields.io/badge/AWS-Certified%20DevOps%20Engineer%20Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS CloudOps](https://img.shields.io/badge/AWS-Certified%20CloudOps%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![NPTEL Java](https://img.shields.io/badge/NPTEL-Programming%20in%20Java-blue?style=for-the-badge&logo=java&logoColor=white)
+![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![AWS DevOps](https://img.shields.io/badge/AWS-Certified%20DevOps%20Engineer%20Professional-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![AWS CloudOps](https://img.shields.io/badge/AWS-Certified%20CloudOps%20Engineer%20Associate-FF9900?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![NPTEL Java](https://img.shields.io/badge/NPTEL-Programming%20in%20Java-blue?style=for-the-badge\&logo=java\&logoColor=white)
 
 </div>
 
@@ -172,8 +159,8 @@ Real-time peer-to-peer video calling platform with secure room creation and low-
 
 ## 🎓 Education
 
-**B.E. Computer Science Engineering (Cyber Security)**  
-Sri Shakthi Institute of Engineering and Technology  
+**B.E. Computer Science Engineering (Cyber Security)**
+Sri Shakthi Institute of Engineering and Technology
 CGPA: **8.24**
 
 <br/>
@@ -182,9 +169,9 @@ CGPA: **8.24**
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajasakthikumar-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajasakthi-kumar-612919338)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajasakthikumarkumar@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rajasakthikumar-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rajasakthi-kumar-612919338)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rajasakthikumarkumar@gmail.com)
 
 </div>
 
