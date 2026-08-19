@@ -136,14 +136,20 @@ Real-time peer-to-peer video calling platform with secure room creation and low-
 
 Real-time peer-to-peer video calling platform with secure room creation and low-latency signalling.
 
-**Tech:** React.js · Node.js · WebRTC · Socket.io · AWS
+**Tech:** React.js · Node.js · WebRTC · Socket.io 
 
 [🔗 View Repository](https://github.com/rajasakthikumar-dev/VIDEO-TRANSLATE.git)
 
 </td>
 
 <td width="50%" valign="top">
+### 📹 Language-Transcription-using-GenAI
 
+Real-time peer-to-peer video calling platform with secure room creation and low-latency signalling.
+
+**Tech:** React.js · Node.js · WebRTC · Socket.io · AWS 
+
+[🔗 View Repository](https://github.com/rajasakthikumar-dev/Language-Transcription-using-GenAI.git)
 </td>
 </tr>
 </table>
